@@ -1,0 +1,12 @@
+#Title: Current active Blocklist
+#Description: Actual used Block List from thrx.de often changed for tests 
+#Author: THRX
+#License: GNU General Public License v3.0
+#Home: https://thrx.de/.....
+#@ GitHub : https://raw.githubusercontent.com/thrxde/thrx-pihole/master/current-active-list.txt
+#Updated: 15 12 2018
+#LatestVersion 0.0.1
+#---------------------
+overwatchleague.com #Overwatch
+blizzard.com
+battle.net
