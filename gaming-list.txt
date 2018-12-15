@@ -1,0 +1,12 @@
+#Title: Gaming Blocklist
+#Description: Gaming Domains Block List from thrx.de
+#Author: THRX
+#License: GNU General Public License v3.0
+#Home: https://thrx.de/.....
+#@ GitHub : https://raw.githubusercontent.com/thrxde/thrx-pihole/master/gaming-list.txt
+#Updated: 15 12 2018
+#LatestVersion 0.0.1
+#---------------------
+overwatchleague.com #Overwatch
+blizzard.com
+battle.net
