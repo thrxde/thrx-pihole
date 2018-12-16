@@ -7,6 +7,8 @@
 #Updated: 15 12 2018
 #LatestVersion 0.0.1
 #---------------------
+corpdir.net
+#---------------------
 overwatchleague.com #Overwatch
 blizzard.com
 battle.net
