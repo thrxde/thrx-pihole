@@ -9,6 +9,8 @@
 #---------------------
 corpdir.net
 #---------------------
+global.fum
+#---------------------
 overwatchleague.com #Overwatch
 blizzard.com
 battle.net
