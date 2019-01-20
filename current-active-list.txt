@@ -4,8 +4,8 @@
 #License: GNU General Public License v3.0
 #Home: https://thrx.de/.....
 #@ GitHub : https://raw.githubusercontent.com/thrxde/thrx-pihole/master/current-active-list.txt
-#Updated: 15 12 2018
-#LatestVersion 0.0.1
+#Updated: 20 01 2019
+#LatestVersion 0.0.2
 #---------------------
 corpdir.net
 #---------------------
@@ -21,9 +21,9 @@ candycrushsoda.king.com
 https://candycrushsodasaga.com
 #---------------------
 tracking.epicgames.com
-#epicgames.com
+epicgames.com
 ## fortninte
-#ol.epicgames.com
+ol.epicgames.com
 #cdn1.unrealengine.com
 #cdn1.unrealengine.com
 #unrealengine.com
