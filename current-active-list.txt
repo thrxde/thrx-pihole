@@ -5,7 +5,15 @@
 #Home: https://thrx.de/.....
 #@ GitHub : https://raw.githubusercontent.com/thrxde/thrx-pihole/master/current-active-list.txt
 #Updated: 20 01 2019
-#LatestVersion 0.0.2
+#LatestVersion 0.0.3
+######################
+# --------------------
+# whitelist for microsoft family tracking!
+# --------------------
+# v10.events.data.microsoft.com 
+# mobile.pipe.aria.microsoft.com 
+# settings-win.data.microsoft.com 
+######################
 #---------------------
 corpdir.net
 #---------------------
