@@ -28,10 +28,10 @@ king.com
 candycrushsoda.king.com
 https://candycrushsodasaga.com
 #---------------------
-tracking.epicgames.com
-epicgames.com
+#tracking.epicgames.com
+#epicgames.com
 ## fortninte
-ol.epicgames.com
+#ol.epicgames.com
 #cdn1.unrealengine.com
 #cdn1.unrealengine.com
 #unrealengine.com
