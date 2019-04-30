@@ -19,9 +19,9 @@ corpdir.net
 #---------------------
 global.fum
 #---------------------
-overwatchleague.com #Overwatch
-blizzard.com
-battle.net
+#overwatchleague.com #Overwatch
+#blizzard.com
+#battle.net
 -----------------------
 # kostenlose Spiele
 king.com
