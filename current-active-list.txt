@@ -4,8 +4,8 @@
 #License: GNU General Public License v3.0
 #Home: https://thrx.de/.....
 #@ GitHub : https://raw.githubusercontent.com/thrxde/thrx-pihole/master/current-active-list.txt
-#Updated: 20 01 2019
-#LatestVersion 0.0.3
+#Updated: 28 12 2020
+#LatestVersion 0.0.4
 ######################
 # --------------------
 # whitelist for microsoft family tracking!
@@ -18,11 +18,13 @@
 corpdir.net
 #---------------------
 global.fum
+#-- YouTube Adds --
+r[0-9-]-sn-[a-z0-9]-[0-9a-z]{4}.googlevideo.com # YouTube Adds
 #---------------------
 #overwatchleague.com #Overwatch
 #blizzard.com
 #battle.net
------------------------
+#-----------------------
 # kostenlose Spiele
 king.com
 candycrushsoda.king.com
