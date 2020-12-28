@@ -19,7 +19,8 @@ corpdir.net
 #---------------------
 global.fum
 #-- YouTube Adds --
-r[0-9-]-sn-[a-z0-9]-[0-9a-z]{4}.googlevideo.com # YouTube Adds
+# Invalid Domain:
+# r[0-9-]-sn-[a-z0-9]-[0-9a-z]{4}.googlevideo.com # YouTube Adds
 #---------------------
 #overwatchleague.com #Overwatch
 #blizzard.com
