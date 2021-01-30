@@ -23,6 +23,7 @@ ol.epicgames.com
 #cdn1.unrealengine.com
 unrealengine.com
 #---------------------
+riotgames.com
 riotcdn.com
 gamepass.com
 conv-blizzard-emea.cd.serving-sys.com
