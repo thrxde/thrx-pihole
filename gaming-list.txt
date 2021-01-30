@@ -22,3 +22,12 @@ ol.epicgames.com
 #cdn1.unrealengine.com
 #cdn1.unrealengine.com
 unrealengine.com
+#---------------------
+riotcdn.com
+gamepass.com
+conv-blizzard-emea.cd.serving-sys.com
+#---------------------
+# Gaming Hardware
+steelseries.com
+#---------------------
+footprintdns.com
