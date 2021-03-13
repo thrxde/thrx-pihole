@@ -1,11 +1,11 @@
 #Title: Current active Blocklist
-#Description: Actual used Block List from thrx.de often changed for tests 
+#Description: Actual used Block List from thrx.de mainly for tests 
 #Author: THRX
 #License: GNU General Public License v3.0
-#Home: https://thrx.de/.....
+#Home: https://github.com/thrxde
 #@ GitHub : https://raw.githubusercontent.com/thrxde/thrx-pihole/master/current-active-list.txt
-#Updated: 28 12 2020
-#LatestVersion 0.0.4
+#Updated: 13 03 2021
+#LatestVersion 0.0.5
 ######################
 # --------------------
 # whitelist for microsoft family tracking!
@@ -21,20 +21,22 @@ global.fum
 #-- YouTube Adds --
 # Invalid Domain:
 # r[0-9-]-sn-[a-z0-9]-[0-9a-z]{4}.googlevideo.com # YouTube Adds
-#---------------------
-#overwatchleague.com #Overwatch
-#blizzard.com
-#battle.net
 #-----------------------
 # kostenlose Spiele
 king.com
 candycrushsoda.king.com
 https://candycrushsodasaga.com
-#---------------------
-#tracking.epicgames.com
-#epicgames.com
-## fortninte
-#ol.epicgames.com
-#cdn1.unrealengine.com
-#cdn1.unrealengine.com
-#unrealengine.com
+######################
+# Tracking:
+footprintdns.com
+######################
+# Okta, CrowdStrike, Netskope and Proofpoint
+# Anti shared zero trust security strategy
+cloudsink.net
+goskope.com
+# TSS
+endgame.detss.corpintra.net
+#pac.detss.corpintra.net
+######################
+# Other:
+analytics-xpress.jabra.com
