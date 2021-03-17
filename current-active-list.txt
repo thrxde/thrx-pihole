@@ -34,6 +34,8 @@ footprintdns.com
 # Anti shared zero trust security strategy
 cloudsink.net
 goskope.com
+addon-daimler.de.goskope.com
+sfchecker.goskope.com
 # TSS
 endgame.detss.corpintra.net
 #pac.detss.corpintra.net
